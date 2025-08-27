@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This website showcases my frontend development skills using **HTML** and **CSS**, along with creative UI elements and responsive design.
 
 ## 🚀 Live Preview
-👉 [Click here to view the live site](https://yourusername.github.io/your-repo-name)
+👉 [Click here to view the live site]()
 
 ## 📁 Project Structure
 - `index.html` – Main landing page

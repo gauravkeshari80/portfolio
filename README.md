@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This website showcases my frontend development skills using **HTML** and **CSS**, along with creative UI elements and responsive design.
 
 ## 🚀 Live Preview
-👉 [Click here to view the live site]()
+👉 [Click here to view the live site](https://gauravkeshari80.github.io/portfolio/)
 
 ## 📁 Project Structure
 - `index.html` – Main landing page
